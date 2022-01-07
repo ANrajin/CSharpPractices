@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\DayDiffs.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\DayDiffs.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\DayDiffs.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\DayDiffs.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\DayDiffs.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\ref\DayDiffs.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\bin\Debug\net5.0\DayDiffs.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\ref\DayDiffs.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\DayDiffs\obj\Debug\net5.0\DayDiffs.csproj.AssemblyReference.cache

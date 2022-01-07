@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\FilesOperation_18.exe
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\FilesOperation_18.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\FilesOperation_18.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\FilesOperation_18.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\FilesOperation_18.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\ref\FilesOperation_18.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\bin\Debug\net5.0\FilesOperation_18.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\ref\FilesOperation_18.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FilesOperation_18\obj\Debug\net5.0\FilesOperation_18.csproj.AssemblyReference.cache

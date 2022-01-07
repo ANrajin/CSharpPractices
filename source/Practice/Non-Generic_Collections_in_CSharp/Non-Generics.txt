@@ -1,0 +1,9 @@
+﻿Generics in C# :(System.Collections.Generic): Generic collections hold elements of same datatypes.
+
+Non-Generics in C# :(System.Collections): Non-generic collections hold elements of different datatypes.
+
+
+**SOURCES*
+https://www.c-sharpcorner.com/UploadFile/736bf5/collection-in-C-Sharp/
+https://www.tutorialsteacher.com/csharp/csharp-collection
+https://www.differencebetween.com/difference-between-generic-and-vs-non-generic-collection-in-c/

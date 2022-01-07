@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\MultiplicationTable.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\MultiplicationTable.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\MultiplicationTable.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\MultiplicationTable.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\MultiplicationTable.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\ref\MultiplicationTable.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\bin\Debug\net5.0\MultiplicationTable.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\ref\MultiplicationTable.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\MultiplicationTable\obj\Debug\net5.0\MultiplicationTable.genruntimeconfig.cache

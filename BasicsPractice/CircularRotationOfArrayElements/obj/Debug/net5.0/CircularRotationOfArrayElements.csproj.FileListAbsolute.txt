@@ -1,0 +1,15 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\CircularRotationOfArrayElements.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\CircularRotationOfArrayElements.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\CircularRotationOfArrayElements.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\CircularRotationOfArrayElements.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\CircularRotationOfArrayElements.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\ref\CircularRotationOfArrayElements.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\bin\Debug\net5.0\CircularRotationOfArrayElements.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\ref\CircularRotationOfArrayElements.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CircularRotationOfArrayElements\obj\Debug\net5.0\CircularRotationOfArrayElements.genruntimeconfig.cache

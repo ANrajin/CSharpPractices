@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\CF - 677A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\CF - 677A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\CF - 677A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\CF - 677A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\CF - 677A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\ref\CF - 677A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\bin\Debug\net5.0\CF - 677A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\ref\CF - 677A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 677A\obj\Debug\net5.0\CF - 677A.genruntimeconfig.cache

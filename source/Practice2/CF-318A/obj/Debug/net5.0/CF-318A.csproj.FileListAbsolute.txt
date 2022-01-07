@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\CF-318A.exe
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\CF-318A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\CF-318A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\CF-318A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\CF-318A.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\ref\CF-318A.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\bin\Debug\net5.0\CF-318A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\ref\CF-318A.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice2\CF-318A\obj\Debug\net5.0\CF-318A.genruntimeconfig.cache

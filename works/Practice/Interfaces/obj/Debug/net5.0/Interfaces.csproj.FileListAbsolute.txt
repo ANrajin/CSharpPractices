@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\Interfaces.exe
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\Interfaces.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\works\Practice\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache

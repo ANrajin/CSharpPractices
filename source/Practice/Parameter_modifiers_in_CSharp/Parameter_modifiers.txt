@@ -1,0 +1,27 @@
+﻿### Params keyword
+
+By using the params keyword, you can specify a method parameter that takes a variable number of arguments. The parameter type must be a single-dimensional array.
+
+No additional parameters are permitted after the params keyword in a method declaration, and only one params keyword is permitted in a method declaration.
+
+If the declared type of the params parameter is not a single-dimensional array, compiler error CS0225 occurs.
+
+When you call a method with a params parameter, you can pass in:
+
+A comma-separated list of arguments of the type of the array elements.
+An array of arguments of the specified type.
+No arguments. If you send no arguments, the length of the params list is zero.
+
+
+### in, out, ref
+
+The in keyword causes arguments to be passed by reference but ensures the argument is not modified. 
+It makes the formal parameter an alias for the argument, which must be a variable. In other words, any operation on the parameter is made on the argument. 
+It is like the ref or out keywords, except that in arguments cannot be modified by the called method. 
+Whereas ref arguments may be modified, out arguments must be modified by the called method, and those modifications are observable in the calling context.
+
+
+
+Out parameter can pass without its declaration and initialization.
+Out parameter can use var type in the method parameter list.
+It is not obligatory that Out parameter name should be same in both function definition and call.

@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\CF-4A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\CF-4A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\CF-4A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\CF-4A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\CF-4A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\ref\CF-4A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\bin\Debug\net5.0\CF-4A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\ref\CF-4A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF-4A\obj\Debug\net5.0\CF-4A.genruntimeconfig.cache

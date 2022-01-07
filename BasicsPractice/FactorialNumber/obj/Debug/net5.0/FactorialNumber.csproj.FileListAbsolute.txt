@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\FactorialNumber.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\FactorialNumber.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\FactorialNumber.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\FactorialNumber.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\FactorialNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\ref\FactorialNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\bin\Debug\net5.0\FactorialNumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\ref\FactorialNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FactorialNumber\obj\Debug\net5.0\FactorialNumber.genruntimeconfig.cache

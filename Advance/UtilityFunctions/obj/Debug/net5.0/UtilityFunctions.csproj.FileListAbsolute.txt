@@ -1,0 +1,12 @@
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\bin\Debug\net5.0\UtilityFunctions.deps.json
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\bin\Debug\net5.0\UtilityFunctions.dll
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\bin\Debug\net5.0\ref\UtilityFunctions.dll
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\bin\Debug\net5.0\UtilityFunctions.pdb
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.dll
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\ref\UtilityFunctions.dll
+E:\1.ClassRoom\csharp-practice\Advance\UtilityFunctions\obj\Debug\net5.0\UtilityFunctions.pdb

@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\GCD.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\GCD.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\GCD.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\GCD.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\GCD.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\ref\GCD.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\bin\Debug\net5.0\GCD.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\ref\GCD.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\GCD\obj\Debug\net5.0\GCD.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\TaskOne.exe
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\TaskOne.deps.json
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\TaskOne.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\TaskOne.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\TaskOne.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\ref\TaskOne.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\bin\Debug\net5.0\TaskOne.pdb
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\ref\TaskOne.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.pdb
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\TaskOne\obj\Debug\net5.0\TaskOne.genruntimeconfig.cache

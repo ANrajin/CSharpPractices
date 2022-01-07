@@ -1,0 +1,15 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\PlainDromeNumber.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\PlainDromeNumber.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\PlainDromeNumber.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\PlainDromeNumber.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\PlainDromeNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\ref\PlainDromeNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\bin\Debug\net5.0\PlainDromeNumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\ref\PlainDromeNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\PlainDromeNumber\obj\Debug\net5.0\PlainDromeNumber.genruntimeconfig.cache

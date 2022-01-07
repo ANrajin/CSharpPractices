@@ -1,0 +1,34 @@
+﻿Abstract class and Interface Difference
+
+Abstract Class	vs Interface
+
+Abstract Class: We cannot create an instance of the this class.	
+Interface can be only variable type and not instance.
+
+
+Abstract Class: It can have constructor.	
+Interface cannot have constructor.
+
+
+Abstract Class: It can be derived to some other class.	
+Interface is created to be derived by other class.
+
+
+Abstract Class: It can have implementation(non abstract) of one or more methods.
+Interface cannot have function definition.
+
+
+Abstract Class: Concrete class can implement only one abstract class.
+Concrete class can implement many interfaces.
+
+
+Abstract Class: It can or cannot contain the abstract methods.
+Interface should only have the method signatures.
+
+
+Abstract Class: It can have private, protected, internal data members.
+All the members are public by default in Interface.
+
+
+Abstract Class: It cannot be derived to a structure.
+Interface can be derived by a structure.

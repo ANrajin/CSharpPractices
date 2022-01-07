@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\Tuples_in_CSharp.exe
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\Tuples_in_CSharp.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\Tuples_in_CSharp.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\Tuples_in_CSharp.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\Tuples_in_CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\ref\Tuples_in_CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\bin\Debug\net5.0\Tuples_in_CSharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\ref\Tuples_in_CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Tuples_in_CSharp\obj\Debug\net5.0\Tuples_in_CSharp.csproj.AssemblyReference.cache

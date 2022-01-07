@@ -1,0 +1,7 @@
+﻿https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/generic-classes
+
+https://www.c-sharpcorner.com/UploadFile/84c85b/using-generics-with-C-Sharp/

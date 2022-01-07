@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\FibonacciSerise.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\FibonacciSerise.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\FibonacciSerise.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\FibonacciSerise.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\FibonacciSerise.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\ref\FibonacciSerise.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\bin\Debug\net5.0\FibonacciSerise.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\ref\FibonacciSerise.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\FibonacciSerise\obj\Debug\net5.0\FibonacciSerise.csproj.AssemblyReference.cache

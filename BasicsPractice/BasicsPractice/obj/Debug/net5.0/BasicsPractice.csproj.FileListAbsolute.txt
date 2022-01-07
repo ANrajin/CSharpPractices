@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\BasicsPractice.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\BasicsPractice.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\BasicsPractice.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\BasicsPractice.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\BasicsPractice.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\ref\BasicsPractice.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\bin\Debug\net5.0\BasicsPractice.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\ref\BasicsPractice.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BasicsPractice\obj\Debug\net5.0\BasicsPractice.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\bin\Debug\net5.0\CommonCode.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\bin\Debug\net5.0\CommonCode.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\bin\Debug\net5.0\ref\CommonCode.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\bin\Debug\net5.0\CommonCode.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\ref\CommonCode.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CommonCode\obj\Debug\net5.0\CommonCode.csproj.AssemblyReference.cache

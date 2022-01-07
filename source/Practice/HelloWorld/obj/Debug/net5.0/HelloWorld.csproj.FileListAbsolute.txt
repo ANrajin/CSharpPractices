@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

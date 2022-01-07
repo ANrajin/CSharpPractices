@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\LinQ.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\LinQ.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\LinQ.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\LinQ.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\ref\LinQ.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\bin\Debug\net5.0\LinQ.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\ref\LinQ.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\LinQ\obj\Debug\net5.0\LinQ.csproj.AssemblyReference.cache

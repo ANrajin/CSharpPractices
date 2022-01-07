@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.exe
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ref\ArrayPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\bin\Debug\net5.0\ArrayPractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ref\ArrayPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\ArrayPractice\obj\Debug\net5.0\ArrayPractice.genruntimeconfig.cache

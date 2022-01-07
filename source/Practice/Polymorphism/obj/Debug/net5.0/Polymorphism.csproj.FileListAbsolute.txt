@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache

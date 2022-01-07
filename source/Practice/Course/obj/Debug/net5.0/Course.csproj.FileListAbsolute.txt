@@ -1,0 +1,12 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Course\bin\Debug\net5.0\Course.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Course\bin\Debug\net5.0\Course.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Course\bin\Debug\net5.0\ref\Course.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Course\bin\Debug\net5.0\Course.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\ref\Course.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Course\obj\Debug\net5.0\Course.pdb

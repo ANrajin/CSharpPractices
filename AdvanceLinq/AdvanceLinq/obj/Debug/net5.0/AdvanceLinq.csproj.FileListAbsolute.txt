@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\AdvanceLinq.exe
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\AdvanceLinq.deps.json
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\AdvanceLinq.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\AdvanceLinq.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\AdvanceLinq.dll
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\ref\AdvanceLinq.dll
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\bin\Debug\net5.0\AdvanceLinq.pdb
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.dll
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\ref\AdvanceLinq.dll
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.pdb
+E:\1.ClassRoom\csharp-practice\AdvanceLinq\AdvanceLinq\obj\Debug\net5.0\AdvanceLinq.genruntimeconfig.cache

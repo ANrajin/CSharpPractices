@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\Reflactions_in_csharp.exe
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\Reflactions_in_csharp.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\Reflactions_in_csharp.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\Reflactions_in_csharp.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\Reflactions_in_csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\ref\Reflactions_in_csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\bin\Debug\net5.0\Reflactions_in_csharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\ref\Reflactions_in_csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Reflactions_in_csharp\obj\Debug\net5.0\Reflactions_in_csharp.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\multiplication_table.exe
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\multiplication_table.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\multiplication_table.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\multiplication_table.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\multiplication_table.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\ref\multiplication_table.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\bin\Debug\net5.0\multiplication_table.pdb
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\ref\multiplication_table.dll
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.pdb
+E:\1.Class-Works\csharp-practice\source\Practice2\multiplication_table\obj\Debug\net5.0\multiplication_table.genruntimeconfig.cache

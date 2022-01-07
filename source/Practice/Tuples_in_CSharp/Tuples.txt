@@ -1,0 +1,6 @@
+﻿A C# tuple is a data structure that provides an easy way to represent a single set of data. The System.Tuple class provides static methods to create tuple objects.
+ 
+Tuples allow us to,
+Create, access, and manipulate a data set
+Return a data set from a method without using out parameter
+Pass multiple values to a method through a single parameter 

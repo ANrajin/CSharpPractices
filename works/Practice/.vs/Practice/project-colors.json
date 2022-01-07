@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1eee53e-f522-4a67-baae-7f44a281c7d6": {
+      "ProjectGuid": "b1eee53e-f522-4a67-baae-7f44a281c7d6",
+      "DisplayName": "ReflectionInCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

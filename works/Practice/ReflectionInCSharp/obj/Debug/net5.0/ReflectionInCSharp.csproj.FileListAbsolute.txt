@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ReflectionInCSharp.exe
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ReflectionInCSharp.deps.json
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ReflectionInCSharp.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ReflectionInCSharp.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ReflectionInCSharp.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ref\ReflectionInCSharp.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\bin\Debug\net5.0\ReflectionInCSharp.pdb
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ref\ReflectionInCSharp.dll
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.pdb
+E:\1.ClassRoom\csharp-practice\works\Practice\ReflectionInCSharp\obj\Debug\net5.0\ReflectionInCSharp.genruntimeconfig.cache

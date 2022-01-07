@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ref\ArmstrongNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\bin\Debug\net5.0\ArmstrongNumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ref\ArmstrongNumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArmstrongNumber\obj\Debug\net5.0\ArmstrongNumber.genruntimeconfig.cache

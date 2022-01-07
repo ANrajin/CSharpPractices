@@ -1,0 +1,47 @@
+﻿It is possible to split the definition of a class, a struct, an interface or a method over two or more source files.
+
+## Partial Classes
+There are several situations when splitting a class definition is desirable:
+
+When working on large projects, spreading a class over separate files enables multiple programmers to work on it at the same time.
+
+public partial class Employee
+{
+    public void DoWork()
+    {
+    }
+}
+
+public partial class Employee
+{
+    public void GoToLunch()
+    {
+    }
+}
+
+***The partial modifier can only appear immediately before the keywords class, struct, or interface.
+
+
+* If any part is declared abstract, then the whole type is considered abstract. 
+* If any part is declared sealed, then the whole type is considered sealed. 
+* If any part declares a base type, then the whole type inherits that class.
+
+**The partial modifier is not available on delegate or enumeration declarations.
+
+
+A partial class or struct may contain a partial method. One part of the class contains the signature of the method. 
+An implementation can be defined in the same part or another part. 
+If the implementation is not supplied, then the method and all calls to the method are removed at compile time. 
+Implementation may be required depending on method signature. A partial method isn't required to have an implementation in the following cases:
+
+It doesn't have any accessibility modifiers (including the default private).
+It returns void.
+It doesn't have any out parameters.
+It doesn't have any of the following modifiers virtual, override, sealed, new, or extern.
+
+Partial method declarations must begin with the contextual keyword partial.
+Partial method signatures in both parts of the partial type must match.
+Partial methods can have static and unsafe modifiers.
+Partial methods can be generic. Constraints are put on the defining partial method declaration, and may optionally be repeated on the implementing one. 
+Parameter and type parameter names do not have to be the same in the implementing declaration as in the defining one.
+You can make a delegate to a partial method that has been defined and implemented, but not to a partial method that has only been defined.

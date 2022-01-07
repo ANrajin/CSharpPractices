@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\SumOfnumberDigits.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\SumOfnumberDigits.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\SumOfnumberDigits.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\SumOfnumberDigits.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\SumOfnumberDigits.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\ref\SumOfnumberDigits.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\bin\Debug\net5.0\SumOfnumberDigits.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\ref\SumOfnumberDigits.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\SumOfnumberDigits\obj\Debug\net5.0\SumOfnumberDigits.csproj.AssemblyReference.cache

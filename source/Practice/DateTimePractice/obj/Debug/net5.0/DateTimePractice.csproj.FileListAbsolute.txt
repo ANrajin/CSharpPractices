@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.exe
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\ref\DateTimePractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\bin\Debug\net5.0\DateTimePractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\ref\DateTimePractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\DateTimePractice\obj\Debug\net5.0\DateTimePractice.genruntimeconfig.cache

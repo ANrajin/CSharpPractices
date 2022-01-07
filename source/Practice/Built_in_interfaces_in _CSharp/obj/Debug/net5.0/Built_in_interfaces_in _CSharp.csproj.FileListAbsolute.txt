@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\Built_in_interfaces_in _CSharp.exe
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\Built_in_interfaces_in _CSharp.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\Built_in_interfaces_in _CSharp.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\Built_in_interfaces_in _CSharp.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\Built_in_interfaces_in _CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\ref\Built_in_interfaces_in _CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\bin\Debug\net5.0\Built_in_interfaces_in _CSharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\ref\Built_in_interfaces_in _CSharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Built_in_interfaces_in _CSharp\obj\Debug\net5.0\Built_in_interfaces_in _CSharp.genruntimeconfig.cache

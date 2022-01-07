@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\CF - 734A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\CF - 734A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\CF - 734A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\CF - 734A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\CF - 734A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\ref\CF - 734A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\bin\Debug\net5.0\CF - 734A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\ref\CF - 734A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 734A\obj\Debug\net5.0\CF - 734A.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\CF-344A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\CF-344A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\CF-344A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\CF-344A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\CF-344A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\ref\CF-344A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\bin\Debug\net5.0\CF-344A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\ref\CF-344A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF-344A\obj\Debug\net5.0\CF-344A.genruntimeconfig.cache

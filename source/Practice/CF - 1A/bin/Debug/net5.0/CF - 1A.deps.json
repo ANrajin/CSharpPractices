@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CF - 1A/1.0.0": {
+        "runtime": {
+          "CF - 1A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CF - 1A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

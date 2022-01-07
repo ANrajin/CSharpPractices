@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\AdvancePractices.exe
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\AdvancePractices.deps.json
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\AdvancePractices.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\AdvancePractices.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\AdvancePractices.dll
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\ref\AdvancePractices.dll
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\bin\Debug\net5.0\AdvancePractices.pdb
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.dll
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\ref\AdvancePractices.dll
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.pdb
+E:\1.ClassRoom\csharp-practice\Advance\AdvancePractices\obj\Debug\net5.0\AdvancePractices.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\MockTestSolutions.exe
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\MockTestSolutions.deps.json
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\MockTestSolutions.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\MockTestSolutions.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\MockTestSolutions.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\ref\MockTestSolutions.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\bin\Debug\net5.0\MockTestSolutions.pdb
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\ref\MockTestSolutions.dll
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.pdb
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\MockTestSolutions\obj\Debug\net5.0\MockTestSolutions.genruntimeconfig.cache

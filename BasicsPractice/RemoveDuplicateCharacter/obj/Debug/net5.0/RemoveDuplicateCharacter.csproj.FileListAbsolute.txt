@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\RemoveDuplicateCharacter.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\RemoveDuplicateCharacter.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\RemoveDuplicateCharacter.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\RemoveDuplicateCharacter.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\RemoveDuplicateCharacter.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\ref\RemoveDuplicateCharacter.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\bin\Debug\net5.0\RemoveDuplicateCharacter.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\ref\RemoveDuplicateCharacter.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RemoveDuplicateCharacter\obj\Debug\net5.0\RemoveDuplicateCharacter.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\RecurrsiveFunction.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\RecurrsiveFunction.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\RecurrsiveFunction.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\RecurrsiveFunction.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\RecurrsiveFunction.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\ref\RecurrsiveFunction.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\bin\Debug\net5.0\RecurrsiveFunction.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\ref\RecurrsiveFunction.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\RecurrsiveFunction\obj\Debug\net5.0\RecurrsiveFunction.csproj.AssemblyReference.cache

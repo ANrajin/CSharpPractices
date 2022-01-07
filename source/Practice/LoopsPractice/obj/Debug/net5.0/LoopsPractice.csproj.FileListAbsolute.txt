@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\LoopsPractice.exe
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\LoopsPractice.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\LoopsPractice.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\LoopsPractice.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\LoopsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\ref\LoopsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\bin\Debug\net5.0\LoopsPractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\ref\LoopsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\LoopsPractice\obj\Debug\net5.0\LoopsPractice.genruntimeconfig.cache

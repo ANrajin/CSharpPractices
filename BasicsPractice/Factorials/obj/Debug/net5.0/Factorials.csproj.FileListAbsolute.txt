@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\Factorials.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\Factorials.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\Factorials.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\Factorials.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\Factorials.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\ref\Factorials.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\bin\Debug\net5.0\Factorials.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\ref\Factorials.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\Factorials\obj\Debug\net5.0\Factorials.genruntimeconfig.cache

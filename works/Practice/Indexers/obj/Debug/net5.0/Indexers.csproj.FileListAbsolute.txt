@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\Indexers.exe
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\Indexers.deps.json
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\Indexers.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\Indexers.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\Indexers.dll
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\ref\Indexers.dll
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\bin\Debug\net5.0\Indexers.pdb
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.dll
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\ref\Indexers.dll
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.pdb
+E:\1.Class-Works\csharp-practice\works\Practice\Indexers\obj\Debug\net5.0\Indexers.genruntimeconfig.cache

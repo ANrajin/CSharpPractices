@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OperatorsPractice/1.0.0": {
+        "runtime": {
+          "OperatorsPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorsPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

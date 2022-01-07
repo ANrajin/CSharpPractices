@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdvancePractices/1.0.0": {
+        "runtime": {
+          "AdvancePractices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancePractices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

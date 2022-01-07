@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.exe
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\ref\FibonacciSeries.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\bin\Debug\net5.0\FibonacciSeries.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\ref\FibonacciSeries.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\FibonacciSeries\obj\Debug\net5.0\FibonacciSeries.genruntimeconfig.cache

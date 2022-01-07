@@ -1,0 +1,15 @@
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\DependencyInjection.exe
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\DependencyInjection.deps.json
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\DependencyInjection.dll
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\ref\DependencyInjection.dll
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\bin\Debug\net5.0\DependencyInjection.pdb
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.dll
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\ref\DependencyInjection.dll
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.pdb
+E:\1.ClassRoom\csharp-practice\Advance\DependencyInjection\obj\Debug\net5.0\DependencyInjection.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\BinaryToDecimal.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\BinaryToDecimal.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\BinaryToDecimal.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\BinaryToDecimal.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\BinaryToDecimal.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\ref\BinaryToDecimal.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\bin\Debug\net5.0\BinaryToDecimal.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\ref\BinaryToDecimal.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\BinaryToDecimal\obj\Debug\net5.0\BinaryToDecimal.genruntimeconfig.cache

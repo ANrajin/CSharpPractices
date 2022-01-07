@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\Test.exe
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\Test.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\Test.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\ref\Test.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Test\bin\Debug\net5.0\Test.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\ref\Test.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

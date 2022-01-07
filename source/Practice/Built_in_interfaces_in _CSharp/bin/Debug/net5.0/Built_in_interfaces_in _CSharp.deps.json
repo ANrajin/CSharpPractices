@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Built_in_interfaces_in _CSharp/1.0.0": {
+        "runtime": {
+          "Built_in_interfaces_in _CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Built_in_interfaces_in _CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

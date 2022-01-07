@@ -1,0 +1,15 @@
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\Record_DataType.exe
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\Record_DataType.deps.json
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\Record_DataType.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\Record_DataType.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\Record_DataType.dll
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\ref\Record_DataType.dll
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\bin\Debug\net5.0\Record_DataType.pdb
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.dll
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\ref\Record_DataType.dll
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.pdb
+E:\1.ClassRoom\csharp-practice\source\Practice\Record_DataType\obj\Debug\net5.0\Record_DataType.genruntimeconfig.cache

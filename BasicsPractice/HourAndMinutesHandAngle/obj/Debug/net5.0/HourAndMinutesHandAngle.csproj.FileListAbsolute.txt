@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\HourAndMinutesHandAngle.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\HourAndMinutesHandAngle.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\HourAndMinutesHandAngle.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\HourAndMinutesHandAngle.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\HourAndMinutesHandAngle.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\ref\HourAndMinutesHandAngle.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\bin\Debug\net5.0\HourAndMinutesHandAngle.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\ref\HourAndMinutesHandAngle.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\HourAndMinutesHandAngle\obj\Debug\net5.0\HourAndMinutesHandAngle.genruntimeconfig.cache

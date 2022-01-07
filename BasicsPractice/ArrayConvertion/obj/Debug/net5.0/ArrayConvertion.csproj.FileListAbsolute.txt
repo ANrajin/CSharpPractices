@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ArrayConvertion.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ArrayConvertion.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ArrayConvertion.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ArrayConvertion.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ArrayConvertion.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ref\ArrayConvertion.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\bin\Debug\net5.0\ArrayConvertion.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ref\ArrayConvertion.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ArrayConvertion\obj\Debug\net5.0\ArrayConvertion.genruntimeconfig.cache

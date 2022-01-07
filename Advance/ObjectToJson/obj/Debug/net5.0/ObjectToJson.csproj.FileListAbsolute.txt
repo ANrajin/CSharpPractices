@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ObjectToJson.exe
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ObjectToJson.deps.json
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ObjectToJson.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ObjectToJson.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ObjectToJson.dll
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ref\ObjectToJson.dll
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\bin\Debug\net5.0\ObjectToJson.pdb
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.dll
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ref\ObjectToJson.dll
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.pdb
+E:\1.ClassRoom\csharp-practice\Advance\ObjectToJson\obj\Debug\net5.0\ObjectToJson.genruntimeconfig.cache

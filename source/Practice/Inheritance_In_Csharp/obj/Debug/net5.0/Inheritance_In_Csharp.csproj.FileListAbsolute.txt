@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\Inheritance_In_Csharp.exe
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\Inheritance_In_Csharp.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\Inheritance_In_Csharp.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\Inheritance_In_Csharp.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\Inheritance_In_Csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\ref\Inheritance_In_Csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\bin\Debug\net5.0\Inheritance_In_Csharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\ref\Inheritance_In_Csharp.dll
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\Inheritance_In_Csharp\obj\Debug\net5.0\Inheritance_In_Csharp.genruntimeconfig.cache

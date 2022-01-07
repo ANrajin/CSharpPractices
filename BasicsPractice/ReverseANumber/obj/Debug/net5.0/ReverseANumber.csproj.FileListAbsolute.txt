@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ReverseANumber.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ReverseANumber.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ReverseANumber.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ReverseANumber.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ReverseANumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ref\ReverseANumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\bin\Debug\net5.0\ReverseANumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ref\ReverseANumber.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.genruntimeconfig.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\ReverseANumber\obj\Debug\net5.0\ReverseANumber.csproj.AssemblyReference.cache

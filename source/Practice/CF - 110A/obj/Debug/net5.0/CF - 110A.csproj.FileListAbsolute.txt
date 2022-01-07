@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\CF - 110A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\CF - 110A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\CF - 110A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\CF - 110A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\CF - 110A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\ref\CF - 110A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\bin\Debug\net5.0\CF - 110A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\ref\CF - 110A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 110A\obj\Debug\net5.0\CF - 110A.csproj.AssemblyReference.cache

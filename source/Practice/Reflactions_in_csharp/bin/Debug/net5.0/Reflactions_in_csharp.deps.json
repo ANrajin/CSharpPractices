@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Reflactions_in_csharp/1.0.0": {
+        "runtime": {
+          "Reflactions_in_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reflactions_in_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

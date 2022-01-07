@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\PatterMaking.exe
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\PatterMaking.deps.json
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\PatterMaking.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\PatterMaking.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\PatterMaking.dll
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\ref\PatterMaking.dll
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\bin\Debug\net5.0\PatterMaking.pdb
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.dll
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\ref\PatterMaking.dll
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.pdb
+E:\1.ClassRoom\csharp-practice\PatterMaking\PatterMaking\obj\Debug\net5.0\PatterMaking.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ClockAngle.exe
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ClockAngle.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ClockAngle.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ClockAngle.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ClockAngle.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ref\ClockAngle.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\bin\Debug\net5.0\ClockAngle.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ref\ClockAngle.dll
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\ClockAngle\obj\Debug\net5.0\ClockAngle.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\OperatorsPractice.exe
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\OperatorsPractice.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\OperatorsPractice.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\OperatorsPractice.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\OperatorsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\ref\OperatorsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\bin\Debug\net5.0\OperatorsPractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\ref\OperatorsPractice.dll
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\OperatorsPractice\obj\Debug\net5.0\OperatorsPractice.genruntimeconfig.cache

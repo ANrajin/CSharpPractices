@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\CF - 158A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\CF - 158A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\CF - 158A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\CF - 158A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\CF - 158A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\ref\CF - 158A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\bin\Debug\net5.0\CF - 158A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\ref\CF - 158A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 158A\obj\Debug\net5.0\CF - 158A.genruntimeconfig.cache

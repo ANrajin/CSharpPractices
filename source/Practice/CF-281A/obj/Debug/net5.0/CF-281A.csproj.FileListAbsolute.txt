@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\CF-281A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\CF-281A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\CF-281A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\CF-281A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\CF-281A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\ref\CF-281A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\bin\Debug\net5.0\CF-281A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\ref\CF-281A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF-281A\obj\Debug\net5.0\CF-281A.csproj.AssemblyReference.cache

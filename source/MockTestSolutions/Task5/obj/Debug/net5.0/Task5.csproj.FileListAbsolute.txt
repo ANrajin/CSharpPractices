@@ -1,0 +1,5 @@
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\Task5\obj\Debug\net5.0\Task5.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\Task5\obj\Debug\net5.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\Task5\obj\Debug\net5.0\Task5.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\Task5\obj\Debug\net5.0\Task5.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\MockTestSolutions\Task5\obj\Debug\net5.0\Task5.csproj.CoreCompileInputs.cache

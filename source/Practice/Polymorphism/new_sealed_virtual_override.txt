@@ -1,0 +1,30 @@
+﻿For hiding the base class method from derived class simply declare the derived class method with a "new" keyword.
+
+In C#, for overriding the base class method in a derived class, you have to declare a base class method as virtual and derived class method asoverride
+
+You can also mix the method hiding and method overriding by using virtual and new keyword since the method of a derived class can be virtual and new at the same time. 
+This is required when you want to further override the derived class method into next level
+
+
+=> The virtual keyword is used to modify a method, property, indexer, or event declared in the base class and allow it to be overridden in the derived class.
+
+=> The override keyword is used to extend or modify a virtual/abstract method, property, indexer, or event of base class into derived class.
+
+=> The new keyword is used to hide a method, property, indexer, or event of base class into derived class.
+
+
+##SEALED
+
+When Sealed applied to a class, the sealed modifier prevents other classes from inheriting from it.
+You can also use the sealed modifier on a method or property that overrides a virtual method or property in a base class. 
+This enables you to allow classes to derive from your class and prevent them from overriding specific virtual methods or properties.
+
+**When applied to a method or property, the 'sealed' modifier must always be used with 'override'.
+
+When you define new methods or properties in a class, you can prevent deriving classes from overriding them by not declaring them as virtual.
+
+A sealed class cannot introduce a protected member because no other class will be able to inherit from the sealed class and use the protected member.
+
+CA1822: Mark members as static
+
+Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body, if appropriate. source - MSDN

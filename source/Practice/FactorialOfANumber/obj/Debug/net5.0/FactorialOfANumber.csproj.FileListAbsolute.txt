@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.exe
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\ref\FactorialOfANumber.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\ref\FactorialOfANumber.dll
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.genruntimeconfig.cache
+E:\1.Class-Works\csharp-practice\source\Practice\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.csproj.AssemblyReference.cache

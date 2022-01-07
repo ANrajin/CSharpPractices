@@ -1,0 +1,16 @@
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\CharacterOccurance.exe
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\CharacterOccurance.deps.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\CharacterOccurance.runtimeconfig.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\CharacterOccurance.runtimeconfig.dev.json
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\CharacterOccurance.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\ref\CharacterOccurance.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\bin\Debug\net5.0\CharacterOccurance.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.csproj.AssemblyReference.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.AssemblyInfoInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.AssemblyInfo.cs
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\ref\CharacterOccurance.dll
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.pdb
+E:\1.ClassRoom\csharp-practice\BasicsPractice\CharacterOccurance\obj\Debug\net5.0\CharacterOccurance.genruntimeconfig.cache

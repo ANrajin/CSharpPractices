@@ -1,0 +1,9 @@
+﻿*	StringBuilder.Append Appends string to the end of the current StringBuilder.
+
+*	StringBuilder.AppendFormat Replaces a format specifier passed in a string with formatted text.
+
+*	StringBuilder.Insert Inserts a string or object into the specified index of the current StringBuilder.
+
+*	StringBuilder.Remove Removes a specified number of characters from the current StringBuilder.
+
+*	StringBuilder.Replace Replaces a specified character at a specified index.

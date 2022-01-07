@@ -1,0 +1,16 @@
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\NullableAndAnnonymousDataTypes.exe
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\NullableAndAnnonymousDataTypes.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\NullableAndAnnonymousDataTypes.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\NullableAndAnnonymousDataTypes.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\NullableAndAnnonymousDataTypes.dll
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\ref\NullableAndAnnonymousDataTypes.dll
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\bin\Debug\net5.0\NullableAndAnnonymousDataTypes.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.dll
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\ref\NullableAndAnnonymousDataTypes.dll
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\NullableAndAnnonymousDataTypes\obj\Debug\net5.0\NullableAndAnnonymousDataTypes.genruntimeconfig.cache

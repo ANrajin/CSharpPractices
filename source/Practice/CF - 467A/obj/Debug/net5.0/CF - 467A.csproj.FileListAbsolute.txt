@@ -1,0 +1,15 @@
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\CF - 467A.exe
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\CF - 467A.deps.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\CF - 467A.runtimeconfig.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\CF - 467A.runtimeconfig.dev.json
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\CF - 467A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\ref\CF - 467A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\bin\Debug\net5.0\CF - 467A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.AssemblyInfoInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.AssemblyInfo.cs
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.csproj.CoreCompileInputs.cache
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\ref\CF - 467A.dll
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.pdb
+E:\1.Class-Works\csharp-practice\source\Practice\CF - 467A\obj\Debug\net5.0\CF - 467A.genruntimeconfig.cache
