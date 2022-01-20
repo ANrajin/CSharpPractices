@@ -38,7 +38,7 @@ namespace PrimeNumber
 
             var isPrime = true;
 
-            for(var i = 2; i < n/2; i++)
+            for(var i = 2; i <= n/2; i++)
             {
                 if (n%i == 0)
                 {

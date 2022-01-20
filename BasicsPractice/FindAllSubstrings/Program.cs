@@ -9,7 +9,7 @@ namespace FindAllSubstrings
         {
             string str = Console.ReadLine();
 
-            SolutionOne(str);
+            //SolutionOne(str);
             Console.WriteLine();
             SolutionTwo(str);
         }
