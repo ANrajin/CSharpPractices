@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\ClassPracticeTwo\\ClassPracticeTwo.csproj",
+      "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\ClassPracticeTwo\\ClassPracticeTwo.csproj",
       "projectName": "ClassPracticeTwo",
-      "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\ClassPracticeTwo\\ClassPracticeTwo.csproj",
+      "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\ClassPracticeTwo\\ClassPracticeTwo.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\ClassPracticeTwo\\obj\\",
+      "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\ClassPracticeTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CommonCode\\CommonCode.csproj": {
-              "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CommonCode\\CommonCode.csproj"
+            "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CommonCode\\CommonCode.csproj": {
+              "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CommonCode\\CommonCode.csproj"
             }
           }
         }
@@ -87,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

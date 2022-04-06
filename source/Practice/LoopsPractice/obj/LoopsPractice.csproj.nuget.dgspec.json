@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj": {}
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj": {}
   },
   "projects": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj": {
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj",
+        "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj",
         "projectName": "LoopsPractice",
-        "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj",
+        "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\LoopsPractice\\LoopsPractice.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\LoopsPractice\\obj\\",
+        "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\LoopsPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

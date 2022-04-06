@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "obmEqwnFPO+962ajRGMyUNOh/FU8NIb1yBsEOPQ1KbSZOYO2vqAVB0Wg1dgBdnyCoHoi6l3SjYeKWhT9tn8wmg==",
+  "dgSpecHash": "ZzYGHff1MKHOLrBujeKqVy98PU0yRIlMV0FTzrVF2eoqFu3ns4Bog1uqxaf75jEBAhvJg+fZ5po3QN96wMgu3w==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\ClockAngle\\ClockAngle.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\ClockAngle\\ClockAngle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

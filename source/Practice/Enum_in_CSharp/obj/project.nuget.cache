@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wVzbDs9UaiVdE/Z7Nty4zywzY8pvq570ea3impTblO8i1YIAccHGeOz9XF0BTPDQtK4uOoB+S18WOuNxZh1U8w==",
+  "dgSpecHash": "Hwn2d36WR0+aTzru8UxKO1iCY5zvMlLqjrPqCoUPFOpKJdopExRe+DhRUG5lFdvEbqRH+yogUnns6kMwS4zhLw==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Enum_in_CSharp\\Enum_in_CSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Enum_in_CSharp\\Enum_in_CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCwgFwFRdw31C5Dw75xlMugb7LFXi0TzPFFMwOSYDIhyGppKNGZhSzrsxkIyKc2wExhC4xua07qjSFpOchH7Bg==",
+  "dgSpecHash": "h9apqY5RR/Ul1r2L8JsinEAUaSZ3oBcGYb/2ceQxznnVTPToj/mFhghhX1dP3fL7nPSGLH6Brs1NEmDwGJWucg==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\StringBuilder_in_CSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\StringBuilder_in_CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

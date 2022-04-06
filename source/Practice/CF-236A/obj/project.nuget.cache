@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gwnfD6AFm7148hM21zMVqkL+ytCnSlSo/O8OMz6x0e1xICuxZq07qsgUeCn+DinEfeqmi2sWa4+LP8zkfLflCg==",
+  "dgSpecHash": "txEQFecDfvVwpV5kjQp6yxsYB6DniGUuuEb039TkntX3KcJGC93LK6hheuepQYsliVDY+YWkMvJJ1l6vEx3v9Q==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF-236A\\CF-236A.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF-236A\\CF-236A.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

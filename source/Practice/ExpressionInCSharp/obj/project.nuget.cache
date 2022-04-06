@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bs48SMnVf6h2+6UrksayF8/saT+6OJYif+BqfUzKGEw76OQIYZew76wTqBmDGb8CoElOBLRkHgzGHZqYjrAgzQ==",
+  "dgSpecHash": "Bc2Y+0VzDdaV1YiV95E9SRwiPxQ1ApfzuMtK4O9m1dxMqALC8Am8LGSCa3jF3Fm+OKxVG+CA8c4CAmQpRuOwXg==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\ExpressionInCSharp\\ExpressionInCSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\ExpressionInCSharp\\ExpressionInCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

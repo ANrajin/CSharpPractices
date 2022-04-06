@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+EOkZ8loC+AiF3elFrfIxPedQiPt00KvRsyMe0l7TzS4bLDyhHINMfilWwepWYuiamG8wyQNDON9yKpEPVKzQ==",
+  "dgSpecHash": "1TPx4O526l5wEZhuw/b5ZvPfEuR/WVR4UaIs2pQsAPx3LNRO0vNskuS+D5BEsXG/OAZqi/WYPKAG8bPW/E5zaQ==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Non-Generic_Collections_in_CSharp\\Non-Generic_Collections_in_CSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Non-Generic_Collections_in_CSharp\\Non-Generic_Collections_in_CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

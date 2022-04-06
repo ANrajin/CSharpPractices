@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gvMubHVJnEelxBf8q6iEQ+8MDvQKtsJm1NLL0L8/OtaziReTT9uuNwhNfD9lgBVWJmMANbK3CSYhpTcOk/dOWQ==",
+  "dgSpecHash": "XhiNtBijVRQC/ikFHBN8igGONJ3Rf2UXan0SeedRlpno3Mvn5ez4n21gcY43bM8FkFlcPIMajT82pAVe5dqogw==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\SOLID_Principles_in_CSharp\\SOLID_Principles_in_CSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\SOLID_Principles_in_CSharp\\SOLID_Principles_in_CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

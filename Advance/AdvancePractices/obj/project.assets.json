@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\Advance\\AdvancePractices\\AdvancePractices.csproj",
+      "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\AdvancePractices\\AdvancePractices.csproj",
       "projectName": "AdvancePractices",
-      "projectPath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\AdvancePractices\\AdvancePractices.csproj",
+      "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\AdvancePractices\\AdvancePractices.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\AdvancePractices\\obj\\",
+      "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\AdvancePractices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

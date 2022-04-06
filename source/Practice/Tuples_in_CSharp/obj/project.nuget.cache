@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ht1O5VatG9hyFgCA//0LAICSdGQG7txv+kskVXXYsQrYWgiUk4G1Odz0DV+F2Jb6hquhz7WfFjo21dnP/WHlVg==",
+  "dgSpecHash": "YJVxUZTyyxE5hF76nzXWmfGK2hp+azynVqwt1MkmvviTIrwdMj1udgatxsFvLzOLC0X70E0b1mHUCEYR8iVtPw==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Tuples_in_CSharp\\Tuples_in_CSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Tuples_in_CSharp\\Tuples_in_CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

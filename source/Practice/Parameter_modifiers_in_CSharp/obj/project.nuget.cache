@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gO5MOHLg2n0g3dqzVFWWZgukoiCC4CEvhhHrvr9yc+dCE5KIL18ayvm6QBkJacvEPMydi6CMdqjWLZqkey+YHQ==",
+  "dgSpecHash": "yl8PJQ9rF9vYZZLafSOyUbedbT9NLkaw/vhthYeNHbmLcrpby1UfCklXbjJbYx/rhuCm94cdtFokf9JsR8+0sg==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Parameter_modifiers_in_CSharp\\Parameter_modifiers_in_CSharp.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Parameter_modifiers_in_CSharp\\Parameter_modifiers_in_CSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

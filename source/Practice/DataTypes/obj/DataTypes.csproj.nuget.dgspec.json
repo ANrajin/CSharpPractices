@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj": {}
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj": {
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj",
+        "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\DataTypes\\obj\\",
+        "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\StringBuilder_in_CSharp.csproj",
+      "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\StringBuilder_in_CSharp.csproj",
       "projectName": "StringBuilder_in_CSharp",
-      "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\StringBuilder_in_CSharp.csproj",
+      "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\StringBuilder_in_CSharp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\obj\\",
+      "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\StringBuilder_in_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

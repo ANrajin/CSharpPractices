@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kDwazZwIcXfxgdXf5SjudjOHEdNRD7DsKv8tsB7ZqpU5l7phYk6KQbkgdIL5OVmQAqhzNMd7MGIxZK+Pfgqi8A==",
+  "dgSpecHash": "DqAqX8r8nfgs5hSBj/Tx5Tn2u5s6H0gBC2TsU6f+NX5tLuqGIZiH4Hc8SSEezOdEbJx/40vLZ/L1kblbcYR9lg==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\NullableAndAnnonymousDataTypes\\NullableAndAnnonymousDataTypes.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\NullableAndAnnonymousDataTypes\\NullableAndAnnonymousDataTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

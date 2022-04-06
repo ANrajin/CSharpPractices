@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj": {}
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj": {}
   },
   "projects": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj": {
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj",
+        "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj",
         "projectName": "CF-977A",
-        "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj",
+        "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF-977A\\CF-977A.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF-977A\\obj\\",
+        "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF-977A\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

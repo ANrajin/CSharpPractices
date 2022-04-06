@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z9Za0HgmgXp3uUQ33a+ma6WWbM2SBldSL3maG8mj0FG9go37mruOM2ez1DKwXj4zVQHajP9YnlwbC6KUyLrOaQ==",
+  "dgSpecHash": "nkoT7/CZJzeDubQKb+nCmCZqwH1X9oGoJwLu+uqHBwmKAjVeEshmXw5nYJpLx0FO/qNV78u57FuSZjakexOaqw==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\JsonToObject\\JsonToObject.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\JsonToObject\\JsonToObject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

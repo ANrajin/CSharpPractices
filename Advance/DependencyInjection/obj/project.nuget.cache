@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YWX8uLI1xgutzr7lKqIQwTxKH0NL3z2aIKQH/FE0165CTZthmTI5tJSLYJMbtnkEjoReLgxxJJJY8g8K+VCtA==",
+  "dgSpecHash": "g/ixMHh75fkxWDBNBGbTdHPXtxImeyFHXYg3x/usqaPBI44fv4J7yreXDc/9R37zy02GUtfinhEhTjP3VWJmHA==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

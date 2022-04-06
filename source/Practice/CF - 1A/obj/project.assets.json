@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF - 1A\\CF - 1A.csproj",
+      "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF - 1A\\CF - 1A.csproj",
       "projectName": "CF - 1A",
-      "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF - 1A\\CF - 1A.csproj",
+      "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF - 1A\\CF - 1A.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\CF - 1A\\obj\\",
+      "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\CF - 1A\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

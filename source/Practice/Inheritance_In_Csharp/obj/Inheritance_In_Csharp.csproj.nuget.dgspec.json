@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj": {}
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj": {}
   },
   "projects": {
-    "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj": {
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj",
+        "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj",
         "projectName": "Inheritance_In_Csharp",
-        "projectPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj",
+        "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\Inheritance_In_Csharp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\obj\\",
+        "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Inheritance_In_Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

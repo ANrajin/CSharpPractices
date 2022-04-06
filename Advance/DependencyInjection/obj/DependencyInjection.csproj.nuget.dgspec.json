@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1.ClassRoom\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj": {}
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj": {}
   },
   "projects": {
-    "E:\\1.ClassRoom\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj": {
+    "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj",
+        "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj",
         "projectName": "DependencyInjection",
-        "projectPath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj",
+        "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\DependencyInjection\\DependencyInjection.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\DependencyInjection\\obj\\",
+        "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\DependencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IGFqw4pTLG4tKJM9qh/1IqnOyMSE7jFdrg5g64McTZ9L3xjzRmnN3i/IspCN57SvJftxeMv3tx/u+QLUkDi+JA==",
+  "dgSpecHash": "TyL86Ogb6wywW0J9CCajmanRwLXC1fXFwm/rXmx+h1gyHNLPGl0M03lw61mfBpaUZn0+MPCnlwhsRyxV4IlxZQ==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\Record_DataType\\Record_DataType.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\Record_DataType\\Record_DataType.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

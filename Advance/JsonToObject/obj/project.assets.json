@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1.ClassRoom\\csharp-practice\\Advance\\JsonToObject\\JsonToObject.csproj",
+      "projectUniqueName": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\JsonToObject\\JsonToObject.csproj",
       "projectName": "JsonToObject",
-      "projectPath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\JsonToObject\\JsonToObject.csproj",
+      "projectPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\JsonToObject\\JsonToObject.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\1.ClassRoom\\csharp-practice\\Advance\\JsonToObject\\obj\\",
+      "outputPath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\Advance\\JsonToObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

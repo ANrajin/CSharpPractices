@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dEiQ8mpcOdDJlreZQ9BpDQSnAcWUcESxjAXJD3PoWLCaYu7dS3P98odF5L+7aGrJdYwfCsKgXs9IRqZfTcUyUg==",
+  "dgSpecHash": "QwONOqzTXbX3dNVtn7Yc5o+4bQD55/l589jwWMNbMW8RkBJkkd0rMpqe4O5YhKSGA+GtdUqHFjc+ptI17pCawg==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\DateTimePractice\\DateTimePractice.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\DateTimePractice\\DateTimePractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

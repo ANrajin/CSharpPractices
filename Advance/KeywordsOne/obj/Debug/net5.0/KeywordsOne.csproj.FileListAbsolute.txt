@@ -1,0 +1,15 @@
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\KeywordsOne.exe
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\KeywordsOne.deps.json
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\KeywordsOne.runtimeconfig.json
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\KeywordsOne.runtimeconfig.dev.json
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\KeywordsOne.dll
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\ref\KeywordsOne.dll
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\bin\Debug\net5.0\KeywordsOne.pdb
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.AssemblyInfoInputs.cache
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.AssemblyInfo.cs
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.csproj.CoreCompileInputs.cache
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.dll
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\ref\KeywordsOne.dll
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.pdb
+E:\1.ClassRoom\Practices\csharp-practice\Advance\KeywordsOne\obj\Debug\net5.0\KeywordsOne.genruntimeconfig.cache

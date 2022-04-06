@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MzM0PXMpgHjgN5MHuhQVu7AHpRhYN4vy6iyeHBztqWpKu9d3XHzhrSTlL+Om6C6CYrbGpEFo7lghS1ZjyK572g==",
+  "dgSpecHash": "cQuhY7JhMpNN5/rTtrFa+Jv9xpjlAYZ+12FThp+N7sLNPAOsYmjuDY1m6fL5nwvMJI5O273/X5zxCqgdblAs9g==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

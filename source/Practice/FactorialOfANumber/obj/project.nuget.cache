@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OH/9Uh3Kijo/2HtGpnNHxlwnBJ9aCQFaodksebMVqfrNl0Z6HLkfXaeSmfnbD4sEtMyf5EfMxX+L02s/ZmsPHA==",
+  "dgSpecHash": "WU8QiA8s6JM+QiZrDgQ16h1W4cP2eN2NY1e3T7ewEuBtvDSlJF8HeEaOU8ABLG1/MxTYOtKLquEFojadF2TuyA==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\FactorialOfANumber\\FactorialOfANumber.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\FactorialOfANumber\\FactorialOfANumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

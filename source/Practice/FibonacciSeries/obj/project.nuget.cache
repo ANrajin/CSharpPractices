@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kYDX3pspY3BNShIX1r6BKO2ruBYvlYxS0KzKbhgiORHuVt1K+bBmfxeMaK8zj3E9RpzrC5gzMxQyXb8wQpMc8w==",
+  "dgSpecHash": "Sy1MfKVHzuNpVid5NS/ZKJ8sOS78sopJDTr6Epnqvk/8c3Mqbze0JIAoMEzB9V7pgRlVdCDy6qNzOu5+9YRoOg==",
   "success": true,
-  "projectFilePath": "E:\\1.ClassRoom\\csharp-practice\\source\\Practice\\FibonacciSeries\\FibonacciSeries.csproj",
+  "projectFilePath": "E:\\1.ClassRoom\\Practices\\csharp-practice\\source\\Practice\\FibonacciSeries\\FibonacciSeries.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
